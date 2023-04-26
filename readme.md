@@ -1,7 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9959826&assignment_repo_type=AssignmentRepo)
 # Bakery Website - CTEC3905  Assignment
-===================
-
 - - - - 
 
 ## What is the website about ##
@@ -49,13 +47,13 @@ that the shopping list is correct, the user clicks the "Buy" button and the mess
 is displayed confirming that the order has been accepted.
 
 ## References and resources ##
-https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80
-https://t3.ftcdn.net/jpg/01/31/37/46/360_F_131374613_cPZB450AjBSDdKDaiifWjKpDABokZTp1.jpg
-https://www.thespruceeats.com/thmb/vbc6MqkqHlkSOx_X5Clyo5qv0kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/loaf-of-bread-182835505-58a7008c5f9b58a3c91c9a14.jpg
-https://images.immediate.co.uk/production/volatile/sites/30/2022/01/puff-pastry-cinnamon-rolls-d57fcf8.jpg?quality=90&webp=true&resize=556,505
-https://www.kingarthurbaking.com/sites/default/files/2020-02/the-easiest-loaf-of-bread-youll-ever-bake.jpg
-https://www.lifeloveandsugar.com/wp-content/uploads/2018/03/Berries-And-Cream-Mini-Puff-Pastry-Cakes1.jpg
-https://www.seriouseats.com/thmb/gBMNe_J1QqbAz_QAXfW7-bRrhnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/better-no-knead-bread-recipe-hero-01_1-48d654bfadeb4a5caf9b233b00fc74ca.JPG
-https://www.deliciousmagazine.co.uk/wp-content/uploads/2022/10/DEL_2022_Q1_DAN_JONES_TARTE_AUX_POMMES_ET_CALVADOS_OPT-768x960.jpg
-https://upload.wikimedia.org/wikipedia/commons/d/d0/Kaisersemmel-.jpg
-https://www.ruchiskitchen.com/wp-content/uploads/2021/05/Eggless-Black-forest-Pastry-recipe-1.jpg
+- https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80
+- https://t3.ftcdn.net/jpg/01/31/37/46/360_F_131374613_cPZB450AjBSDdKDaiifWjKpDABokZTp1.jpg
+- https://www.thespruceeats.com/thmb/vbc6MqkqHlkSOx_X5Clyo5qv0kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/loaf-of-bread-182835505-58a7008c5f9b58a3c91c9a14.jpg
+- https://images.immediate.co.uk/production/volatile/sites/30/2022/01/puff-pastry-cinnamon-rolls-d57fcf8.jpg?quality=90&webp=true&resize=556,505
+- https://www.kingarthurbaking.com/sites/default/files/2020-02/the-easiest-loaf-of-bread-youll-ever-bake.jpg
+- https://www.lifeloveandsugar.com/wp-content/uploads/2018/03/Berries-And-Cream-Mini-Puff-Pastry-Cakes1.jpg
+- https://www.seriouseats.com/thmb/gBMNe_J1QqbAz_QAXfW7-bRrhnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/better-no-knead-bread-recipe-hero-01_1-48d654bfadeb4a5caf9b233b00fc74ca.JPG
+- https://www.deliciousmagazine.co.uk/wp-content/uploads/2022/10/DEL_2022_Q1_DAN_JONES_TARTE_AUX_POMMES_ET_CALVADOS_OPT-768x960.jpg
+- https://upload.wikimedia.org/wikipedia/commons/d/d0/Kaisersemmel-.jpg
+- https://www.ruchiskitchen.com/wp-content/uploads/2021/05/Eggless-Black-forest-Pastry-recipe-1.jpg
