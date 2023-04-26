@@ -1,5 +1,4 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9959826&assignment_repo_type=AssignmentRepo)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9959826&assignment_repo_type=AssignmentRepo)
 # Bakery Website - CTEC3905  Assignment
 - - - - 
 
@@ -17,8 +16,8 @@ HTML file I created we can find the opening hours of bakeries.
 
 The main page of this website presents a small description of
 the company, explaining what the bakery is known for and how
-long they are in business. I made that using "<p>" as a
-paragraph and "<h>" as headings. Below the text, we can see 2 
+long they are in business. I made that using p as a
+paragraph and h as headings. Below the text, we can see 2 
 images presenting the owners, with a small description below.
 
 ## Contact us page (contact.html) ##
